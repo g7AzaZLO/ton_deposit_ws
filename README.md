@@ -13,6 +13,8 @@ uvicorn main:app --reload</br>
 Далее в браузере заходим по адресу</br>
 http://127.0.0.1:8000/docs</br>
 Тут можно поиграться с сваггером</br>
+![image](https://github.com/g7AzaZLO/ton_web_api/assets/59707245/02ce2dcb-8326-4893-8fd3-3b3022f8130b)
+
 Создаем пару пользователей через этот же свагер, либо через mongodb atlas
 
 ## Тесты
