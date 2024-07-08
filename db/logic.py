@@ -1,6 +1,5 @@
 import logging
 from typing import Optional, Dict, Any
-
 from fastapi import HTTPException
 from motor.motor_asyncio import AsyncIOMotorClient
 
